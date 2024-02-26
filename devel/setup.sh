@@ -1,0 +1,1 @@
+/home/gaomoqi/4dof_ws/devel/.private/catkin_tools_prebuild/setup.sh

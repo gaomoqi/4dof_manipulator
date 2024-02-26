@@ -1,0 +1,8 @@
+prefix=/home/gaomoqi/4dof_ws/install
+
+Name: open_manipulator_moveit
+Description: Description of open_manipulator_moveit
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

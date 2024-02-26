@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/gaomoqi/4dof_ws/devel/.private/open_manipulator_moveit/setup.sh

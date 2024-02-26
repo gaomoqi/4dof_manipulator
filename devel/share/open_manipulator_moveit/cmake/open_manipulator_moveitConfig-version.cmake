@@ -1,0 +1,1 @@
+/home/gaomoqi/4dof_ws/devel/.private/open_manipulator_moveit/share/open_manipulator_moveit/cmake/open_manipulator_moveitConfig-version.cmake

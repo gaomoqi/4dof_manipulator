@@ -1,0 +1,5 @@
+open_manipulator_description
+/home/gaomoqi/4dof_ws/devel/.private/open_manipulator_description/cmake.lock /home/gaomoqi/4dof_ws/devel/./cmake.lock
+/home/gaomoqi/4dof_ws/devel/.private/open_manipulator_description/share/open_manipulator_description/cmake/open_manipulator_descriptionConfig.cmake /home/gaomoqi/4dof_ws/devel/share/open_manipulator_description/cmake/open_manipulator_descriptionConfig.cmake
+/home/gaomoqi/4dof_ws/devel/.private/open_manipulator_description/share/open_manipulator_description/cmake/open_manipulator_descriptionConfig-version.cmake /home/gaomoqi/4dof_ws/devel/share/open_manipulator_description/cmake/open_manipulator_descriptionConfig-version.cmake
+/home/gaomoqi/4dof_ws/devel/.private/open_manipulator_description/lib/pkgconfig/open_manipulator_description.pc /home/gaomoqi/4dof_ws/devel/lib/pkgconfig/open_manipulator_description.pc

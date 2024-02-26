@@ -1,0 +1,1 @@
+/home/gaomoqi/4dof_ws/devel/.private/open_manipulator_moveit/lib/pkgconfig/open_manipulator_moveit.pc

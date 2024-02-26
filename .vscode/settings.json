@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/acados/interfaces/acados_template"
+    ]
+}

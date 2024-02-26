@@ -1,0 +1,6 @@
+devel_space: /home/gaomoqi/4dof_ws/devel
+install: false
+install_space: /home/gaomoqi/4dof_ws/install
+profile: default
+source_space: /home/gaomoqi/4dof_ws/src
+workspace: /home/gaomoqi/4dof_ws
